@@ -15,6 +15,7 @@ class College{
 	String cCity;
 	String cDist;
 	Staff cStaff;
+	// Paramers for Class : College
 	College(String name , String city , String dist,Staff staff){
 		this.cName=name;
 		this.cCity=city;
